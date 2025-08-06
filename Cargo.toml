@@ -1,0 +1,9 @@
+[package]
+name = "hello-rust-tray"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+tao = "0.24.0"
+tray-icon = "0.21.1"
+image = "0.25.6"
