@@ -1,5 +1,5 @@
 # hello-rust-tray
-A simple example for the Rust tray-icon crate
+A simple example for the [tray-icon](https://crates.io/crates/tray-icon) Rust crate.
 
 Quick start:
 ```
